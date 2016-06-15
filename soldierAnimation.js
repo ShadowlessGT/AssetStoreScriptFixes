@@ -1,3 +1,5 @@
+// See the video at https://youtu.be/i5hTN5F8pak?list=PL3G-bTOVoUIF9pO2mgdri13o3L_WR7Pne
+
 // Source: https://www.assetstore.unity3d.com/en/#!/content/1727
 // Project file location: Assets/Cartoon Soldier/Scripts/soldier
 
